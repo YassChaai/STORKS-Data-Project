@@ -6,8 +6,8 @@ Ce projet vise à aider les hôpitaux à gérer plus efficacement leurs besoins 
 **Collecte de données :**
 Pour collecter des données, un scraper Twitter est développé ou adapté pour obtenir les hashtags nécessaires dans un format pratique. En plus des hashtags Twitter, d'autres variables sont également considérées. Les données sont collectées et analysées pour trouver des corrélations.
 
-**Système d'alerte :
-**Le projet fournit deux systèmes d'alerte : l'un qui prédit la congestion des services de maternité par le biais de niveaux d'alerte et l'autre qui prédit une pénurie de lait pour nourrissons. Le système d'alerte est conçu pour répondre aux besoins de l'utilisateur final sans être trop complexe.
+**Système d'alerte :**
+Le projet fournit deux systèmes d'alerte : l'un qui prédit la congestion des services de maternité par le biais de niveaux d'alerte et l'autre qui prédit une pénurie de lait pour nourrissons. Le système d'alerte est conçu pour répondre aux besoins de l'utilisateur final sans être trop complexe.
 
 **Livraison :**
 Le projet fournit des rapports qui contiennent une présentation claire et significative de l'évolution des variables au fil du temps, y compris les occurrences de hashtags Twitter, les naissances et les zones géographiques pertinentes. Les conclusions tirées des données sont également incluses dans le rapport, ainsi que la façon dont les données ont été utilisées pour créer les systèmes d'alerte pour les hôpitaux et les détaillants.
